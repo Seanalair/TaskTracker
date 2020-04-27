@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task Tracker</string>
+
+    <string name="no_tasks">You haven\'t created any tasks yet. Press the add button to get started!</string>
+    <string name="no_completed_tasks">You haven\'t completed any tasks yet.  Get to work!</string>
+    <string name="app_showing_present">The app is currently showing the present.</string>
+
+    <string name="format_app_showing_future">The app is currently %1$s into the future.</string>
+    <string name="format_app_showing_past">The app is currently %1$s into the past.</string>
+
+    <string name="not_completed_yet">Not yet completed</string>
+    <string name="format_last_completed_past">Last completed %1$s ago (due in %2$s)</string>
+    <string name="format_last_completed_past_overdue">Last completed %1$s ago (%2$s Overdue)</string>
+    <string name="format_last_completed_future">Latest completion in %1$s</string>
+
+    <string name="completed_past">%1$s ago</string>
+    <string name="completed_future">in %1$s</string>
+
+</resources>
